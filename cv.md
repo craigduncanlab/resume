@@ -106,7 +106,7 @@ I furthered my skills and interest in data analysis and software development by 
 | General Data science | Python, R, Java, python, C, Objective-C, PHP, javascript, SQL, Git (version control). |
 | Bioinformatics | HPC (alignment): STAR, Picard Tools, Bowtie [Pipelines](https://github.com/craigduncanlab/singlecell/blob/master/broad_pipeline_meta.md)|
 | Bioinformatics | Downstream Analysis: R Studio, tidyverse, R packages (Bioconductor, CRAN etc). |
-| HPC | BASH, SLURM, Docker, pshell for Pawsey Data.  Paswey Zeus, Nimbus modules and admin |
+| HPC | BASH, SLURM, Docker, pshell for Pawsey Data.  Pawsey Zeus, Nimbus modules and admin |
 | Mobile | ios (Apple), XCode IDE, Objective C.  Licensed Apple Developer.
 | Text analysis| GUI, markdown, OOXML and docx data formats |
 | Animation | Basic Blender skills.  Custom javascript animation (canvas) |
